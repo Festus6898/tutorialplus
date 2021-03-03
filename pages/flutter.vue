@@ -97,14 +97,17 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
+                Flutter is Google’s portable UI toolkit for crafting beautiful, 
+                natively compiled applications for mobile, web, and desktop from a single codebase. 
+                Flutter works with existing code, is used by developers and 
+                organizations around the world, and is free and open source.<br>
+                For users, Flutter makes beautiful apps come to life.
+                For developers, Flutter lowers the bar to entry for building apps. 
+                It speeds app development and reduces the cost and complexity of app 
+                production across platforms.
+                For designers, Flutter provides a canvas for high-end user experiences. 
+                It also acts as a productive prototyping tool, with CodePen 
+                support for sharing your ideas with others.               
               </p>  
 
               <b-row id="detail" class="icons">
