@@ -2,7 +2,7 @@
   <div class="container-fluid">
 
     <!-- NavBar Start -->
-
+    <some />
     <!-- NavBar End -->
 
     <div>      
@@ -379,6 +379,7 @@ h1
   color: #35495e;
   letter-spacing: 1px;
   text-align: center;
+  padding-top: 100px;
 }
 .svg-img
 {
