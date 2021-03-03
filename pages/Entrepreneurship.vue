@@ -93,14 +93,13 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
+                Entrepreneurship refers to the process of creating a new enterprise and bearing any of 
+                its risks, with the view of making the profit. <br>
+                t is an act of seeking investment and production opportunity, 
+                developing and managing a business venture, so as to undertake production function, 
+                arranging inputs like land, labour, material and capital, 
+                introducing new techniques and products, 
+                identifying new sources for the enterprise.                             
               </p>  
 
               <b-row id="detail" class="icons">
