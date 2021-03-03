@@ -97,14 +97,11 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
+                MEAN is a free and open-source JavaScript software stack used  for building  
+                web sites and web applications. Best part about mean stack is you don't need to 
+                learn a separate language for front end and back-end since everything is executed 
+                in a javascript environment saving a lot of time for freshers. <br>
+                M --> MongoDB<br>E --> ExpressJS<br>A --> Angular<br>N --> NodeJS                             
               </p>  
 
               <b-row id="detail" class="icons">
