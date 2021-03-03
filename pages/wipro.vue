@@ -97,15 +97,12 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
-              </p>  
+                Wipro is one of the high end service based company with over 600 clients across the world 
+                and has been one of the dream company to work for any freshers. Getting Placed in Wipro can be as follows:<br>
+                * Get inside through on campus placement or write Talent hunt exams and getting placed off campus.<br>
+                * Directly getting in touch by sending the resume to website.<br>
+                * Get Referrals from tech resource person through Alt-Rekruit Portal.<br>                            
+              </p> 
 
               <b-row id="detail" class="icons">
                 
