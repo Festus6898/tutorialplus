@@ -1,5 +1,6 @@
 <template>
   <div class="container-fluid">    
+    <some />
     <div>      
       <h1 class="title">Tutorial - Entrepreneurship</h1>
 
@@ -355,6 +356,7 @@ h1
   color: #35495e;
   letter-spacing: 1px;
   text-align: center;
+  padding-top: 100px;
 }
 .svg-img
 {
