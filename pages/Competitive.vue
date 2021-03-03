@@ -93,15 +93,16 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
-              </p>  
+                Programming is fun, programming is an exercise for your brain, 
+                programming is a mental sport and when this sport is held over the internet involving
+                sport programmer as a contestant then it is called Competitive Programming. <br>
+                the one and clear goal behind these competitive programming is 
+                “To prepare a programmer such that his/her logical ability increases and he/she is able 
+                to write code for the challenging situation.” <br>  
+                Another reason is that a lot of big companies like Google, Facebook. Microsoft, 
+                Amazon hires through competitive programming so if you want to get into these 
+                companies then you really need to get your hands dirty in competitive programming.                           
+              </p>   
 
               <b-row id="detail" class="icons">
                 
