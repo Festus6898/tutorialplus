@@ -97,14 +97,11 @@
             </b-col>
             <b-col sm="7">                          
               <p>
-                Lorem ipsum dolor sit amet, ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus. 
-                Possim civibus epicurei sit ne. Vel cu stet nostrud. Iriure luptatum deterruisset 
-                id qui, sea in debet aeque quando.
-                Lorem ipsum dolor sit amet ignota oportere persequeris quo at.
-                Sed ut virtute iudicabit, ad deleniti moderatius duo. Sea scaevola 
-                vulputate tincidunt te, ei eos dicant reprehendunt, vim ea stet civibus.                              
+                Tutorial+ is the service which provides Booycamp training and Hands on experience in live project, thus understanding
+                the dynamics of programming with respect to the industries Requirement. The tutorial+ has multiple Courses which
+                allows user to enhance his coding skills, reasoning knowledge etc.<br><br>
+                The sessions are conducted by the industry person himself who will act as a Mentor to the students throughout
+                the course and will evaluate your project work (which can be used as your final year project also) for future JOB references.<br>                              
               </p>  
 
               <b-row id="detail" class="icons">
