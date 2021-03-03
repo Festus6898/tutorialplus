@@ -2,17 +2,11 @@
   <div class="container-fluid">
 
     <!-- NavBar Start -->   
-      <ul>
-        <nuxt-link to="index"><li>flutter</li></nuxt-link>
-        <nuxt-link to="Entrepreneurship"><li>Entrepreneurship</li></nuxt-link>
-        <nuxt-link to="Competitive"><li>Competitive Programming</li></nuxt-link>
-        <nuxt-link to="wipro"><li>Crack Wipro</li></nuxt-link>
-        <nuxt-link to="mean"><li>MEAN Developer</li></nuxt-link>
-      </ul>
+    <some />
     <!-- NavBar End -->
 
-    <div>      
-      <h1 class="title">Tutorial - Flutter</h1>
+    <div class="contents-division">      
+      <h1 class="title">Tutorial +</h1>
 
       <!--Start Content Page -->
       <section class="content" id="drop-content">
@@ -218,25 +212,63 @@
       <br>
       <!-- Start Course Page -->      
       <section class="course">        
-        <b-container>          
+        <b-container> 
+          
+          <h1 class="text-center">Courses We Offer</h1>  
           <b-row sm="12">
-            <b-col sm="8">
-              <h1 class="text-center">Syllabus</h1>
+          <div class="text-center-div">
+            <nuxt-link to="/wipro">
+            <b-button pill variant="outline-primary"> 
+              <h4 class="text-center">Crack Wipro</h4>
+            </b-button>
+            </nuxt-link>
+          </div>       
+
+          <div class="text-center-div">
+            <nuxt-link to="/competitive">
+            <b-button pill variant="outline-primary"> 
+              <h4 class="text-center">Competitive Coding</h4>
+            </b-button>
+            </nuxt-link>
+          </div>
+
+          <div class="text-center-div">
+            <nuxt-link to="/entrepreneurship">
+            <b-button pill variant="outline-primary"> 
+              <h4 class="text-center">Entrepreneurship</h4>
+            </b-button>
+            </nuxt-link>
+          </div>
+
+          <div class="text-center-div">
+            <nuxt-link to="/flutter">
+            <b-button pill variant="outline-primary"> 
+              <h4 class="text-center">Flutter Language</h4>
+            </b-button>
+            </nuxt-link>
+          </div>
+
+          <div class="text-center-div">
+            <nuxt-link to="/mean">
+              <b-button pill variant="outline-primary"> 
+                <h4 class="text-center">MEAN Stack</h4>
+              </b-button>
+            </nuxt-link>
+          </div>
+           
+            <!--<b-col sm="8">
+              
               <div style="overflow-x:hidden;">        
                 <faq :faqs="faq" />
               </div>
-              <div class="text-center">
-                <b-button pill variant="outline-primary">Book Course
-                  <b-icon icon="arrow-down" class="downarrow"></b-icon>  
-                </b-button>
-              </div>
+              
               <br>
             </b-col>
             <b-col class="wipr" sm="4">
               <div class="text-center">
                 <img src="~/assets/festas.jpeg" class="avatar"/> <br>
                 <h2>Festus</h2>                
-              </div>
+              </div> 
               <div class="comp">
                 <b-icon icon="briefcase-fill" class="icon"></b-icon>
                 <label for="company">Wipro</label>    
@@ -258,8 +290,8 @@
                   <line y1="-1" x2="72.4707" y2="-1" transform="matrix(-0.772726 0.634739 0.571554 0.820564 58 2)" stroke="#FF0000" stroke-width="2"/>
                 </svg>
               </div>
-            </b-col>
-          </b-row>
+            </b-col>-->
+          </b-row> 
         </b-container>
       </section>
       <!-- End Course Page -->
@@ -276,18 +308,19 @@
                   <h6>Name</h6>
                   <input type="text" placeholder="Name" class="form-control"><br>
                   <h6>Email ID</h6>
-                  <input type="text" placeholder="Email ID" class="form-control">
+                  <input type="email" placeholder="Email ID" class="form-control">
                 </b-col>
                 <b-col sm="6">
                   <h6>Phone</h6>
                   <input type="number" placeholder="Phone No." class="form-control" ><br>              
                   <h6>College Name</h6>
-                  <input type="college" placeholder="College Name" class="form-control" >
+                  <input type="text" placeholder="College Name" class="form-control" >
                 </b-col>                       
               </b-row>
               <h6>Remarks</h6>
               <textarea type="text" placeholder="250 Characters" rows = "3" class="form-control"></textarea>              
               <br>
+              
               <div class="text-center">
                 <b-button pill variant="outline-primary" class="btn">Submit</b-button>
               </div>
@@ -381,6 +414,7 @@ h1
   color: #35495e;
   letter-spacing: 1px;
   text-align: center;
+  padding-top: 100px;
 }
 .svg-img
 {
@@ -427,6 +461,12 @@ h6
 {
   color: #35495e;
 }
+.text-center-div
+{
+  align-content: center;
+  padding: 15px;
+  
+}
 .wipr
 {
   padding-top: 16%;
@@ -435,6 +475,7 @@ h6
 {
   background-color: #f1efef;
   position: relative;
+  align-content: center;
 }
 .icon
 {
